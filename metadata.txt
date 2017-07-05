@@ -16,8 +16,8 @@ email=carlos.cagna@ibge.gov.br
 
 about=Convert all CircularString geometrys in active layer in LineString
 
-tracker=https://github.com/CarlosCagna/Qgis/tree/master/ConvertCircularstring
-repository=https://github.com/CarlosCagna/Qgis/tree/master/ConvertCircularstring
+tracker=https://github.com/CarlosCagna/ConvertCircularstring/issues
+repository=https://github.com/CarlosCagna/ConvertCircularstring
 # End of mandatory metadata
 
 # Recommended items:
